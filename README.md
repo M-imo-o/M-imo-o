@@ -3,7 +3,6 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/M-imo-o?label=Follow&style=social)](https://github.com/M-imo-o)
-  [![GitHub User's stars](https://img.shields.io/github/stars/M-imo-o?affiliations=owner%2Ccollaborator&style=social)](https://github.com/M-imo-o)
 
 </div>
 
