@@ -1,4 +1,4 @@
-# 👋 I am Adhithya!
+# 👋 Heyy I am Adhithya!
 
 <div align="center">
   
